@@ -1,0 +1,30 @@
+
+public class VariablesTiposDeDatos {
+	
+	public static void main (String[] args ) {
+		
+		
+		//String permite almacenar cadenas de texto 
+		String nombre = "Marja Castañeda";
+		int edad = 28;
+		
+		//char nos permite almacenar un caracter, pero sólo 1 
+		char inicial = 'C';  
+		
+		
+		
+		
+		
+		
+		
+		//boolean almacena un valor booleano, puede ser true o false 
+		boolean tienesCrush = true;
+		
+		//tipos de datos enteros 
+		//short 
+		//byte -128 a 127
+		//int 
+		//long 
+		
+	}
+}
